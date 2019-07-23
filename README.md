@@ -20,6 +20,6 @@ Then Run the Server
 sudo npm start
 ```
 
-This will start a web server on [`localhost:9966`](http://localhost:443). Try and allow permission to your webcam, and add some examples by holding down the buttons.
+This will start a web server on [`localhost:443`](http://localhost:443). Try and allow permission to your webcam, and add some examples by holding down the buttons.
 
 Add Pets with the button or edit the array in main.js
